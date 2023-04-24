@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	width:100%;
+}
+thead{
+	text-align:left;
+	background-color:brown;
+	color:white;
+}
+tbody{
+	text-align:right;
+}
+.first{
+	text-align:left;
+}
